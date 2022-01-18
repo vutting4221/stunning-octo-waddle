@@ -21,7 +21,7 @@
     "connected-react-router": "^6.2.2",
     "enzyme": "^3.8.0",
     "enzyme-adapter-react-16": "^1.9.1",
-    "formik": "^1.4.3",
+    "formik": "^2.0.0",
     "gh-pages": "^2.0.1",
     "history": "^4.7.2",
     "react": "^16.8.1",
